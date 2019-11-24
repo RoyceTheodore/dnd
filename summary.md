@@ -21,7 +21,7 @@ discover a few items: magic scale armor of swimming, a magic pipe, and a set of
 loaded dice. Magpie swipes the loaded dice.
 
 Magpie and Lance remain in the barracks, and vehemently argue with eachother
-for this entire episode's duration.
+for the entire episode.
 
 While exploring the basement caverns, we discover bolts of cloth, kegs of brandy,
 and other stolen goods. We encounter two hobgoblins in front of a large
@@ -30,8 +30,8 @@ row-boat. After combat, the party retreats back to the barracks to rest.
 ### Marianius Murders Ren
 While the party sleeps, Ren insults and flicks Marianius in the nose, calling
 him a "sea dog". Marianius shape-shifts into a bear and violently mauls Ren.
-The party slumbers through the altercation. Marianius watches composed and
-apathetically as Ren bleeds out and dies.
+The party slumbers through the altercation. Marianius watches, composed and
+apathetic, as Ren bleeds out and dies.
 
 The party awaken to discover Ren's corpse. Royce is appalled at sight of his
 murdered comrade. Believing he would be unable to apprehend Marianius, Royce
@@ -58,13 +58,13 @@ drinks and challenges arm-wrestle.
 
 The three travel to a bar on the dockside: The Empty Net. Kreb Shanker,
 the barkeep, serves up an especially exotic and expensive brandy.
-Uncharacteristic for a dwarf, Royce quickly becomes quickly intoxicated. After
-becoming the arm-wrestle champion, Bosu overheads a customer insult him,
+Uncharacteristic for a dwarf, Royce becomes quickly intoxicated. After
+becoming the arm-wrestle champion, Bosu overhears a customer insult him,
 claiming he arm-wrestles like a girl. Bosu decks the customer.
 
 A bar fight ensues. Bosu satisfyingly clobbers many people, while a drunken
-Royce punches air and repeatedly falls to the ground. While Kreb attempts to
-regain control of the situation, the winged Sky casts a thunderwave spell that 
+Royce punches air and repeatedly falls to the ground. Kreb attempts to
+regain control of the situation, but Sky casts a thunderwave spell that 
 electrocutes six patrons.
 
 The armed city guard enter the bar, question everyone, and arrest Sky.
