@@ -1,15 +1,3 @@
-# Summary
-TL;DR Conor dies twice. 
-
-Still inside the mansion, the party explores the basement caverns. We discover
-bolts of cloth, kegs of brandy, and other stolen goods; and dispatch two
-hobgoblins guarding a large row-boat.
-
-Exhausted from combat, the party rests.
-
-Marianius shapeshifts into a bear and kills Ren. The last straw: Ren flicks
-Marianius in the nose, and calls him a "sea dog".
-
 # Loots
 Royce obtains a magic pipe.
 Magpie obtains loaded dice.
