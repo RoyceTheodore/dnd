@@ -1,8 +1,9 @@
 # Summary
-Marianius murders Ren. Royce exiles Marianius. The party aquires a boat.
-Bosu, 
+Marianius kills Ren. Royce exiles Marianius. The party aquires a boat. Sky is
+convicted of murder.
 
 ## Cast
+```
   Royce     Dwarf      Paladin     Ali
   Sky       ????       Cleric      Conor
   Ren       Human      Monk        Conor   
@@ -11,6 +12,7 @@ Bosu,
   Vatu      Gnome      Wizard      Miles 
   Magpie    Tiefling   Rogue       Julia
   Lance     Tiefling   Lance       Sam
+```
 
 
 ### Exploring the Cavern
@@ -40,9 +42,9 @@ corpse. Despite possessing no knowledge of sailing or navigation, the party
 somehow manages to row back to town.
 
 After a brief talk with the harbor master and the city guard, the party
-receives a reward of 300gp. Tired, the party returns to rest at the Wicker
-Goat, except for the two Tieflings who go to the Faithful Quartermaster of
-Ayus.
+sells the boat and receives a total reward of 300gp. Tired, the party returns to
+rest at the Wicker Goat, except for the two Tieflings who go to the Faithful
+Quartermaster of Ayus.
 
 ### Ren's Grave and a Bar Fight
 The next morning, while out for a stroll, Vatu stumbles upon the graveyards,
