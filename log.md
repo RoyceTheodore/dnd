@@ -1,3 +1,15 @@
+# Summary
+TL;DR Conor dies twice. 
+
+Still inside the mansion, the party explores the basement caverns. We discover
+bolts of cloth, kegs of brandy, and other stolen goods; and dispatch two
+hobgoblins guarding a large row-boat.
+
+Exhausted from combat, the party rests.
+
+Marianius shapeshifts into a bear and kills Ren. The last straw: Ren flicks
+Marianius in the nose, and calls him a "sea dog".
+
 # Loots
 Royce obtains a magic pipe.
 Magpie obtains loaded dice.
@@ -6,7 +18,12 @@ Magpie obtains loaded dice.
 Fight with two hobgolins.
 
 # Plot
-Boy-wizard decodes paper with secrete code: It's a morse-code light signals.
+Magpie and Lance get into an argument. [their players are not present]
+
+Marianius shapeshifts into a giant wolf spider to scout ahead. Inside the cave,
+he discovers a docked row-boat guarded by two hob-goblins.
+
+Vatu, the boy-wizard decodes paper with secrete code: It's a morse-code light signals.
 
 Party finds a large row-boat in cave.
 
